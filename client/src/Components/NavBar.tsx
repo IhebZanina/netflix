@@ -20,7 +20,7 @@ export default function NavBar() {
           {tabs.map((tab) => (
             <div
               key={tab}
-              className="text-white hover:text-gray-300 cursor.pointer"
+              className="text-white hover:text-gray-300 cursor- pointer"
             >
               <p>{tab}</p>
             </div>

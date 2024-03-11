@@ -1,5 +1,3 @@
-import React from "react";
-
 function HomeBanner() {
   return (
     <div className="h-screen w-screen">
