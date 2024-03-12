@@ -11,7 +11,7 @@ function PlansPage() {
           <PlanCard />
           <PlanCard />
         </div>
-        <button className="rounded bg-red-400 p-3 text-white px-10 mt-3 w-full hover:bg-red-600">
+        <button className="rounded bg-red-400 p-3 text-white px-10 mt-3 w-full hover:bg-red-700">
           Purchase
         </button>
       </div>
