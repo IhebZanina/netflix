@@ -11,7 +11,6 @@ function WatchPage() {
       <iframe
         className="h-full w-full"
         src="https://www.youtube.com/embed/MW-bASP8mAg?si=QyBjY0359Ks9_j1n"
-        frameborder="0"
         allowFullScreen
         allow="autoplay"
       ></iframe>
